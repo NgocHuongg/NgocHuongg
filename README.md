@@ -24,4 +24,4 @@
 
 ### Contact with me
 - Email: `00xuanhuong00@gmail.com`
-- Blog: https://ngoc-huong.gitbook.io/ngchuong/
+
